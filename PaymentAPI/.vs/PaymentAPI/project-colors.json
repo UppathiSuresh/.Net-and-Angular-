@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3621bee9-7e1a-44a2-9965-2b332423feda": {
+      "ProjectGuid": "3621bee9-7e1a-44a2-9965-2b332423feda",
+      "DisplayName": "PaymentAPI",
+      "ColorIndex": 0
+    },
+    "6382ea04-53b5-4dcf-881d-763da470d79f": {
+      "ProjectGuid": "6382ea04-53b5-4dcf-881d-763da470d79f",
+      "DisplayName": "WebApplication1_Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
